@@ -1,6 +1,6 @@
 # Map Covid Team 3
 
-Map Covid is an Android app that tracks Covid information for 5 cities arround Los Angeles.
+Map Covid is an Android app that tracks Covid information for 5 cities around Los Angeles.
 
 ## Requirement
 
